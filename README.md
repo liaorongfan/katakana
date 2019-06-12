@@ -9,7 +9,7 @@ To learn more about how to train the model, checkout these resources:
 
 The English-Katakana dataset used for training the model is also available [here](https://raw.githubusercontent.com/wanasit/katakana/master/data/joined_titles.csv)
 
-## Use pre-trained model as a library
+## Use pre-trained model as a library (learn how to markdown )
 
 **Warning:** The pre-trained is a small network and not properly trained. It's not production ready 
 and should be used just for demonstration propose. 
